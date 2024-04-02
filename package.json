@@ -9,7 +9,7 @@
   "author": "ruebennycz",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ruebennycz/foo-tools"
+    "url": "https://github.com/ruebennycz/foo-tools.git"
   },
   "license": "ISC",
   "dependencies": {
